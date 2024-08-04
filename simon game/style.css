@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.outer{
+    height: 400px;
+    width: 600px;
+    border: solid black;
+    margin: auto;
+    /* display: inline-block; */
+    /* justify-content: space-around; */
+}
+.inner{
+    height: 48%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 1.85%;
+    /* flex-wrap: wrap; */
+}
+.box{
+    width: 35%;
+    height: 85%;
+    border: solid black;
+}
+.box1{
+    background-color: red;
+}
+.box2{
+    background-color: blue;
+}
+.box3{
+    background-color:  orange;
+}
+.box4{
+    background-color: yellow;
+}
+.gameflash{
+    background-color: white;
+}
+.userflash{
+    background-color: green;
+}
